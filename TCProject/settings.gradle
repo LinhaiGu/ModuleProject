@@ -1,0 +1,1 @@
+include ':app', ':baselibrary', 'module:consulting:consultingmanager', 'module:consulting:consultinglibrary', 'module:order:ordermanager', 'module:order:orderlibrary'

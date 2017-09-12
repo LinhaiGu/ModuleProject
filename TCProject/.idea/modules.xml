@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TCProject.iml" filepath="$PROJECT_DIR$/TCProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baselibrary/baselibrary.iml" filepath="$PROJECT_DIR$/baselibrary/baselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/consulting/consulting.iml" filepath="$PROJECT_DIR$/module/consulting/consulting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/consulting/consultinglibrary/consultinglibrary.iml" filepath="$PROJECT_DIR$/module/consulting/consultinglibrary/consultinglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/consulting/consultingmanager/consultingmanager.iml" filepath="$PROJECT_DIR$/module/consulting/consultingmanager/consultingmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/module.iml" filepath="$PROJECT_DIR$/module/module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/order/order.iml" filepath="$PROJECT_DIR$/module/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/order/orderlibrary/orderlibrary.iml" filepath="$PROJECT_DIR$/module/order/orderlibrary/orderlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/order/ordermanager/ordermanager.iml" filepath="$PROJECT_DIR$/module/order/ordermanager/ordermanager.iml" />
+    </modules>
+  </component>
+</project>
